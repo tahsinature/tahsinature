@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">Welcome to rm 👋</h1>
+<p>
+  <a href="https://www.npmjs.com/package/rm" target="_blank">
+    <img alt="Version" src="https://img.shields.io/npm/v/rm.svg">
+  </a>
+  <a href="https://twitter.com/tahsinature" target="_blank">
+    <img alt="Twitter: tahsinature" src="https://img.shields.io/twitter/follow/tahsinature.svg?style=social" />
+  </a>
+</p>
 
-<!--
-**tahsinature/tahsinature** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏠 [Homepage](https://tahsin.codes)
 
-Here are some ideas to get you started:
+## Author
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👤 **Tahsin**
+
+* Website: https://tahsin.codes
+* Twitter: [@tahsinature](https://twitter.com/tahsinature)
+* Github: [@tahsinature](https://github.com/tahsinature)
+* LinkedIn: [@tahsinature](https://linkedin.com/in/tahsinature)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
