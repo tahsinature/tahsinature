@@ -15,9 +15,18 @@
 👤 **Tahsin**
 
 * Website: https://tahsin.codes
-* Twitter: [@tahsinature](https://twitter.com/tahsinature)
-* Github: [@tahsinature](https://github.com/tahsinature)
-* LinkedIn: [@tahsinature](https://linkedin.com/in/tahsinature)
+* On Facebook: [@t4h51n](https://www.facebook.com/t4h51n)
+* On Twitter: [@t4h51n](https://twitter.com/t4h51n)
+* On LinkedIn: [@t4h51n](https://www.linkedin.com/in/t4h51n)
+* On Instagram: [@t4h51n](https://www.instagram.com/t4h51n)
+* On Keybase: [@t4h51n](https://keybase.io/t4h51n)
+* On Telegram: [@t4h51n](https://t.me/t4h51n)
+* On Discord: [@t4h51n](https://discord.com/users/t4h51n)
+* On npm: [@tahsin](https://www.npmjs.com/~tahsin)
+* On PyPI: [@tahsinature](https://pypi.org/user/tahsinature)
+* On GitHub: [@tahsinature](https://github.com/tahsinature)
+* On Gitlab: [@tahsinature](https://gitlab.com/tahsinature)
+* On Medium: [@tahsinature](https://medium.com/@tahsinature)
 
 ## Show your support
 
