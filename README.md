@@ -10,11 +10,7 @@
 
 ### 🏠 [Homepage](https://tahsin.codes)
 
-## Author
-
-👤 **Tahsin**
-
-* Website: https://tahsin.codes
+👤 **Find me elsewhere**
 * On Facebook: [@t4h51n](https://www.facebook.com/t4h51n)
 * On Twitter: [@t4h51n](https://twitter.com/t4h51n)
 * On LinkedIn: [@t4h51n](https://www.linkedin.com/in/t4h51n)
