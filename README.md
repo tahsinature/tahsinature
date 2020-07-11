@@ -12,9 +12,5 @@
 * On Discord: [@t4h51n](https://discord.com/users/t4h51n)
 * On npm: [@tahsin](https://www.npmjs.com/~tahsin)
 * On PyPI: [@tahsinature](https://pypi.org/user/tahsinature)
-* On GitHub: [@tahsinature](https://github.com/tahsinature)
 * On Gitlab: [@tahsinature](https://gitlab.com/tahsinature)
 * On Medium: [@tahsinature](https://medium.com/@tahsinature)
-
-## Show your support
-Give a ⭐️ if this project helped you!
