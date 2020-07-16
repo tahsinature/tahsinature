@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I am Tahsin</h1>
+<h1 align="center">Hi there 👋</h1>
 
 ### 🏠 [Homepage](https://tahsin.codes)
 
