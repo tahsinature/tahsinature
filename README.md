@@ -15,3 +15,9 @@
 * On PyPI: [@tahsinature](https://pypi.org/user/tahsinature)
 * On Gitlab: [@tahsinature](https://gitlab.com/tahsinature)
 * On Medium: [@tahsinature](https://medium.com/@tahsinature)
+
+
+💻 **Or in your terminal**
+```bash
+npx tahsin
+```
