@@ -2,8 +2,6 @@
 
 ![Tahsin Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=tahsinature&show_icons=true&include_all_commits=true&theme=radical)
 
-![Tahsin Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tahsinature&layout=compact&theme=radical)
-
 
 👤 **Find me elsewhere**
 
