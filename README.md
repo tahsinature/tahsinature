@@ -16,4 +16,4 @@
 [![PyPI Badge](https://img.shields.io/badge/tahsinature-567FBB?style=flat-square&logo=PyPI&logoColor=white)](https://pypi.org/user/tahsinature)
 [![GitLab Badge](https://img.shields.io/badge/tahsinature-30353E?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/tahsinature)
 [![Medium Badge](https://img.shields.io/badge/tahsinature-30353E?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@tahsinature)
-[![Web Badge](https://img.shields.io/badge/tahsin.codes-30353E?style=flat-square&logoColor=white)](https://tahsin.codes)
+[![Web Badge](https://img.shields.io/badge/tahsinature.me-30353E?style=flat-square&logoColor=white)](https://tahsinature.me)
