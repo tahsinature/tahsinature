@@ -1,8 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
 
-![Tahsin Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=tahsinature&show_icons=true&include_all_commits=true&theme=radical)
-
-
 👤 **Find me elsewhere**
 
 [![Facebook Badge](https://img.shields.io/badge/t4h51n-2278E9?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/t4h51n)
