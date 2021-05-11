@@ -1,6 +1,18 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="left">Hi there 👋</h1>
 
-👤 **Find me elsewhere**
+I'm a passionate and pragmatic programmer specializing in microservices & full-stack development using modern & robust technologies.
+
+<h1 align="left">Skills 💻</h1>
+
+
+| Syntax                      | Description                                                                                                                                                             |
+| :-------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Frontend                    | React, React Native, Redux, Redux-Saga, Vue.js, Vuex, Sass, gulp.js                                                                                                     |
+| Backend                     | Node.js, Docker, Elasticsearch, Kibana, Microservices, gRPC, API Driven Architecture, Event-Driven Architecture, Protocol Buffer, MongoDB, PostgreSQL, Redis, Socket.IO |
+| Software Practices & Others | CI, TDD, BDD, Clean Coding, OOP, Agile                                                                                                                                  |
+| Programming Languages       | Javascript, Typescript, Python, Java, Bash                                                                                                                              |
+
+<h1 align="left">Find me elsewhere 	📱</h1>
 
 [![Facebook Badge](https://img.shields.io/badge/t4h51n-2278E9?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/t4h51n)
 [![Twitter Badge](https://img.shields.io/badge/t4h51n-1DADEB?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/t4h51n)
