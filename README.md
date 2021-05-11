@@ -5,7 +5,7 @@ I'm a passionate and pragmatic programmer specializing in microservices & full-s
 <h1 align="left">Skills 💻</h1>
 
 
-| Syntax                      | Description                                                                                                                                                             |
+| Domain                      | Tools                                                                                                                                                             |
 | :-------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Frontend                    | React, React Native, Redux, Redux-Saga, Vue.js, Vuex, Sass, gulp.js                                                                                                     |
 | Backend                     | Node.js, Docker, Elasticsearch, Kibana, Microservices, gRPC, API Driven Architecture, Event-Driven Architecture, Protocol Buffer, MongoDB, PostgreSQL, Redis, Socket.IO |
