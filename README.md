@@ -1,16 +1,6 @@
 <h3 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey, I'm Tahsin</h3>
 
-I'm a passionate and pragmatic programmer specializing in microservices & full-stack development using modern & robust technologies.
-
-<h3 align="left">🔨 What I Work With</h3>
-
-
-| Domain                      | Tools                                                                                                                                                             |
-| :-------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Frontend                    | React, React Native, Redux, Redux-Saga, Vue.js, Vuex, Sass, gulp.js                                                                                                     |
-| Backend                     | Node.js, Docker, Elasticsearch, Kibana, Microservices, gRPC, API Driven Architecture, Event-Driven Architecture, Protocol Buffer, MongoDB, PostgreSQL, Redis, Socket.IO |
-| Software Practices & Others | CI, TDD, BDD, Clean Coding, OOP, Agile                                                                                                                                  |
-| Programming Languages       | Go, Java, Typescript, Javascript, Python, Bash                                                                                                                              |
+I'm a passionate and pragmatic programmer specializing in microservices & full-stack development using modern & robust technologies.                           |
 
 <h3 align="left">🌏 Find Me Elsewhere</h3>
 
