@@ -1,8 +1,8 @@
-<h1 align="left">Hi there 👋</h1>
+<h3 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey, I'm Tahsin</h3>
 
 I'm a passionate and pragmatic programmer specializing in microservices & full-stack development using modern & robust technologies.
 
-<h1 align="left">Skills 💻</h1>
+<h3 align="left">🔨 What I Work With</h3>
 
 
 | Domain                      | Tools                                                                                                                                                             |
@@ -12,7 +12,7 @@ I'm a passionate and pragmatic programmer specializing in microservices & full-s
 | Software Practices & Others | CI, TDD, BDD, Clean Coding, OOP, Agile                                                                                                                                  |
 | Programming Languages       | Go, Java, Typescript, Javascript, Python, Bash                                                                                                                              |
 
-<h1 align="left">Find me elsewhere 	📱</h1>
+<h3 align="left">🌏 Find Me Elsewhere</h3>
 
 [![LinkedIn Badge](https://img.shields.io/badge/t4h51n-1177B2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/t4h51n)
 [![GitLab Badge](https://img.shields.io/badge/tahsinature-30353E?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/tahsinature)
