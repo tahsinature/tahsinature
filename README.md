@@ -1,4 +1,4 @@
-<h3 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey, I'm Tahsin</h3>
+<h3 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi Fellow Devs</h3>
 
 I'm a passionate and pragmatic programmer specializing in microservices & full-stack development using modern & robust technologies.
 
