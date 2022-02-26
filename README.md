@@ -1,6 +1,7 @@
 <h3 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi Fellow Devs</h3>
 
-I'm a passionate and pragmatic programmer specializing in microservices & full-stack development using modern & robust technologies.
+I'm Tahsin. A Software Developer | Open Source Enthusiast. I'm specializing in microservices & full-stack development.
+
 
 <h3 align="left">🌏 Find Me Elsewhere</h3>
 
