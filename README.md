@@ -1,4 +1,4 @@
-<h3 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi Fellow Devs</h3>
+<h3 style="display:flex; align-items: center" align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px" style="margin-right: 0.4rem"> Hi Fellow Devs</h3>
 
 I'm Tahsin. A Software Developer | Open Source Enthusiast. I'm specializing in microservices & full-stack development.
 
