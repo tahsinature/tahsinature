@@ -1,6 +1,10 @@
 <h3 style="display:flex; align-items: center" align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px" style="margin-right: 0.4rem"> Hi Fellow Devs</h3>
 
-I'm Tahsin. A Software Developer | Open Source Enthusiast. I'm specializing in microservices & full-stack development.
+- <div style="display:flex; align-items: center; align=left;"><img src="https://tahsin.us/favicon.ico" width="16" style="padding-right: 4px"/> Feel free to checkout my &nbsp; <a href="https://tahsin.us/">portfolio</a> &nbsp; website!</div>
+- 🏢 Software Engineer (Full Stack) [@EnPowered](https://enpowered.com/), in Otario, Canada.
+- 🧰 I build with: `Go`, `TypeScript`, `JavaScript`, `React`,  `Vue.js`, `AWS` ...
+- ⚡ I enjoy photography, reading, playing cricket. 😁
+- 📫 Reach out to me: mail@tahsin.us
 
 
 <h3 align="left">🌏 Find Me Elsewhere</h3>
